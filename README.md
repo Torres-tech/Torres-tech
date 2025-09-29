@@ -9,7 +9,6 @@
 - 🎓 **Software Engineering @ University of Texas at Arlington (2024–2027)**  
 - 💻 **Full Stack Developer** experienced with modern web and mobile stacks  
 - ☁️ Interested in **cloud-native apps, AI/ML integrations, and scalable APIs**  
-- 🏆 Honors: Top 30 – ICPC Mid-Central 2022 • Runner-up – RichLand Programming 2022 • Gold Medal – WMTC 2017  
 - 🔗 [LinkedIn](https://linkedin.com/in/khanglamswe) • [Email](mailto:dkl6681@mavs.uta.edu) • [GitHub](https://github.com/Torres-tech)
 
 ---
