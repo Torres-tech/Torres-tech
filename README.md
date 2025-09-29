@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <!-- Your Name --> 👋</h1>
+<h1 align="center">Hey, I'm Khang Lam 👋</h1>
 <p align="center">
   Software Engineering @ UTA • International student • I like clear targets and detailed plans.<br/>
   Building solid full-stack fundamentals and actively seeking internships/SWE roles.
