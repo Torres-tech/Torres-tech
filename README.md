@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Dang Lam 👋</h1>
+<h1 align="center">Hey, I'm Khang Lam 👋</h1>
 <p align="center">
   Software Engineering @ UTA • Full Stack Developer • Passion for building scalable apps and cloud solutions
 </p>
