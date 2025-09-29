@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Khang Lam 👋</h1>
 <p align="center">
-  Software Engineering @ UTA • International student • I like clear targets and detailed plans.<br/>
+  Software Engineering @ UTA • I like clear targets and detailed plans.<br/>
   Building solid full-stack fundamentals and actively seeking internships/SWE roles.
 </p>
 
 - 🎯 Goals: graduate in SE @ UTA, get strong across the stack, and land a great SWE job.
 - 💻 Interests: backend (Java/Node), mobile (Swift), web (HTML/CSS/JS), algorithms/DS.
 - 🧩 Hobbies: coding small apps, learning by doing.
-- 📫 How to reach me: **your.email@uta.edu**
+- 📫 How to reach me: **kalmdangg@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
 
 ## ⚡ GitHub Stats
