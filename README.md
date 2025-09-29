@@ -1,41 +1,84 @@
+<h1 align="center">Hey, I'm Dang Lam 👋</h1>
+<p align="center">
+  Software Engineering @ UTA • Full Stack Developer • Passion for building scalable apps and cloud solutions
+</p>
+
+---
+
+## 👨‍🎓 About Me
+- 🎓 **Software Engineering @ University of Texas at Arlington (2024–2027)**  
+- 💻 **Full Stack Developer** experienced with modern web and mobile stacks  
+- ☁️ Interested in **cloud-native apps, AI/ML integrations, and scalable APIs**  
+- 🏆 Honors: Top 30 – ICPC Mid-Central 2022 • Runner-up – RichLand Programming 2022 • Gold Medal – WMTC 2017  
+- 🔗 [LinkedIn](https://linkedin.com/in/khanglamswe) • [Email](mailto:dkl6681@mavs.uta.edu) • [GitHub](https://github.com/Torres-tech)
+
+---
+
+## ⚡ GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Torres-tech&show_icons=true&rank_icon=github&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-tech&layout=compact&theme=default" height="150" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
-
-### 🔹 Backend & APIs
 <p>
-  <img src="https://unpkg.com/devicon@2.16.0/icons/nodejs/nodejs-original.svg" height="32" />
-  <!-- Express is black-on-transparent and often invisible on dark themes; use a badge -->
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&labelColor=000000" height="24" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/fastapi/fastapi-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/graphql/graphql-plain.svg" height="32" />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="32" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32" />
 </p>
 
-### 🔹 Frontend & Mobile
-<p>
-  <img src="https://unpkg.com/devicon@2.16.0/icons/react/react-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/nextjs/nextjs-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/vuejs/vuejs-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/swift/swift-original.svg" height="32" />
-  <!-- SwiftUI not in Devicon -->
-  <img src="https://img.shields.io/badge/SwiftUI-Framework-orange?logo=swift" height="24" />
-</p>
+---
 
-### 🔹 Databases & Storage
-<p>
-  <img src="https://unpkg.com/devicon@2.16.0/icons/postgresql/postgresql-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/mongodb/mongodb-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/redis/redis-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/firebase/firebase-plain.svg" height="32" />
-  <!-- Not in Devicon -->
-  <img src="https://img.shields.io/badge/DB-Vercel%20Postgres-blue?logo=vercel" height="24" />
-  <img src="https://img.shields.io/badge/Cloud-Blob%20Storage-lightgrey" height="24" />
-</p>
+## 💼 Experience
+- **Full Stack Engineering Intern @ FinBud AI (2025)**  
+  - Built cloud-native microservices on AWS/Heroku with Node.js + Docker, cutting downtime by 30%  
+  - Integrated financial data pipelines for low-latency analytics (25% faster response)  
+  - Delivered React/Next.js dashboards for financial insights  
 
-### 🔹 Cloud & DevOps
-<p>
-  <!-- Use version-pinned AWS to avoid transient 404s -->
-  <img src="https://unpkg.com/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/docker/docker-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/heroku/heroku-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/vercel/vercel-original.svg" height="32" />
-  <img src="https://unpkg.com/devicon@2.16.0/icons/netlify/netlify-original.svg" height="32" />
-</p>
+- **Full Stack Engineer @ Esmart Solutions (2024)**  
+  - Optimized backend APIs with caching/query tuning (35% performance gain)  
+  - Automated large-scale data pipelines (10k+ records weekly)  
+  - Built Vue.js dashboards connected to APIs for better client decision-making  
+
+- **Software Engineer @ CF Hub (2023)**  
+  - Developed REST APIs with Express + PostgreSQL and authentication  
+  - Automated CI/CD with Docker + GitHub Actions (40% faster delivery)  
+  - Built React interfaces for real-time collaboration tools  
+
+---
+
+## 🚀 Projects
+- **Resume2Review** → AI-powered resume review platform with FastAPI + Next.js + RAG, reducing review time by 60%  
+- **Findeep** → Financial analytics platform (Node.js/Express + PostgreSQL + React) deployed with Docker + AWS, boosting query speed by 30%  
+- **Job Application Multi-Agent System** → Next.js + MongoDB + Redis app that automates job applications, cutting submission time by 70%  
+
+---
+
+## 🏅 Honors
+- **ICPC Mid-Central USA (2022)** – Top 30  
+- **RichLand Local Programming Contest (2022)** – Runner-up  
+- **World Mathematics Team Championship (2017)** – Gold Medal  
+
+---
