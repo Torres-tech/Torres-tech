@@ -1,10 +1,10 @@
 # Hi, I'm Khang Lam — Software Engineering @ UTA
 
-I’m an international SE student at UTA who loves shipping practical, portfolio-ready projects. Right now I’m polishing full-stack skills by building an iOS **DailySpender** app (SwiftUI, JSON storage), an **IoT Claw Game** controller (React Native + cloud video), and small **Resume2Review**/AI utilities. I learn by doing, write clear READMEs, and keep my repos runnable end-to-end (setup → run → test).
+I’m an international SE student at UTA focused on building practical, portfolio-ready apps. Right now I’m polishing full-stack skills with an iOS **DailySpender** app (SwiftUI, JSON storage), an **IoT Claw Game** controller (React Native + cloud video), and a **Resume2Review** utility. I learn by shipping, keep READMEs runnable (setup → run → test), and write small tests and docs so others can clone and go.
 
-- **Focus:** full-stack (60/40 FE/BE), iOS SwiftUI, React/React Native, SQL, and systems fundamentals  
-- **Currently:** refining dark mode patterns, improving testing, and documenting deployment steps  
-- **Ask me about:** turning class projects into recruiter-ready repos, LeetCode practice plans, and clean README patterns  
+- **Focus:** full-stack (60/40 FE/BE), iOS SwiftUI, React/React Native, SQL, systems fundamentals  
+- **Currently:** refining dark-mode patterns, improving testing, and tightening deployment docs  
+- **Ask me about:** turning class projects into recruiter-ready repos and organizing LeetCode by patterns  
 - **Contact:** dkl6681@mavs.uta.edu • [LinkedIn](https://www.linkedin.com/in/khang-lam-18a575378)
 
 ---
@@ -18,35 +18,54 @@ I’m an international SE student at UTA who loves shipping practical, portfolio
   <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-tech&layout=compact&hide_border=true" />
 </a>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Torres-tech&hide_border=true" />
-</a>
-
 ---
 
-### 🧰 Languages & Tools
-<!-- swap or trim as needed -->
-<img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white"> 
-<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white">
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB">
-<img alt="Expo" src="https://img.shields.io/badge/Expo-000?logo=expo&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+### 🧰 Tech Stack (Devicon)
+
+<!-- Tip: keep icons ~36–48px tall for readability. Use title= for hover labels and alt= for accessibility. -->
+<div align="left">
+
+<!-- Frameworks -->
+<strong>Frameworks:</strong><br/>
+<img title="React" alt="React" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img title="React Native" alt="React Native" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img title="Expo" alt="Expo" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
+<img title="Next.js" alt="Next.js" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img title="Node.js" alt="Node.js" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<br/><br/>
+
+<!-- Languages -->
+<strong>Languages:</strong><br/>
+<img title="Swift" alt="Swift" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img title="Java" alt="Java" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img title="Python" alt="Python" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img title="JavaScript" alt="JavaScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img title="TypeScript" alt="TypeScript" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<br/><br/>
+
+<!-- Tooling -->
+<strong>Tooling:</strong><br/>
+<img title="Xcode" alt="Xcode" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img title="Android Studio" alt="Android Studio" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img title="Git" alt="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img title="VS Code" alt="VS Code" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img title="Figma" alt="Figma" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<br/><br/>
+
+<!-- Cloud & Databases -->
+<strong>Cloud & DB:</strong><br/>
+<img title="Vercel" alt="Vercel" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+<img title="Firebase" alt="Firebase" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img title="PostgreSQL" alt="PostgreSQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img title="SQLite" alt="SQLite" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+</div>
 
 ---
 
 ### 📌 Featured Projects
-<!-- Quick one-liners help recruiters scan -->
 - **DailySpender (SwiftUI)** — local JSON persistence, monthly category breakdowns, clean MVVM, exportable reports.
 - **IoT Claw Game (React Native + Cloud Video)** — remote arcade control prototype; device control UI, low-latency video, and API wiring.
 - **Resume2Review** — resume analysis helper; prompt engineering + clean Next.js setup; clear .env.sample and run scripts.
-- **LeetCode Solutions (Java/Python)** — categorized patterns (two-pointers, DP, graphs) with time/space notes and test cases.
+- **LeetCode Solutions (Java/Python)** — categorized patterns (two-pointers, DP, graphs) with time/space notes and tests.
 
-> See pinned repos below for direct links.
+> Pin these repos below so the profile tells a coherent story.
