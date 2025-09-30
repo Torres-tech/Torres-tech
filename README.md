@@ -26,6 +26,15 @@ My Porfolio Website: https://torres-tech.github.io
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torres-tech&layout=compact&hide_border=true" />
 </a>
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Torres-tech
+  &show_icons=true
+  &hide_border=true
+  &include_all_commits=true
+  &count_private=true
+  &rank_icon=github"
+/>
+
 
 ## 🧰 Languages and Tools
 
