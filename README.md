@@ -13,7 +13,7 @@
 📊 Strong in **Node.js, React/Next.js, SwiftUI, PostgreSQL, AWS, Docker**  
 🤝 Looking to collaborate on open-source and real-world impactful apps  
 🎯 Preparing for internships + building projects like **Resume2Review** and **DailySpender**  
-📩 Reach me: dkl6681@mavs.uta.edu  
+📩 Reach me: kalmdangg@gmail.com  
 My Porfolio Website: https://torres-tech.github.io
 
 ---
