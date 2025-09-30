@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://torres-tech.github.io" target="_blank">
+    <img alt="Open Portfolio" src="https://img.shields.io/badge/🌐%20Open%20My%20Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
+
+
+
 # Hey, I'm Khang Lam – aspiring full-stack engineer 🚀
 
 🎓 Software Engineering @ UTA (2024 – 2027)  
