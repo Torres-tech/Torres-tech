@@ -5,7 +5,7 @@
 </p>
 
 
-# Hey, I'm Khang Lam – full-stack engineer 🚀
+# Hey, I'm Khang Lam 🚀
 
 🎓 Software Engineering @ UTA (2024 – 2027)  
 💻 Full-stack experience across **backend, frontend, cloud, and DevOps**  
