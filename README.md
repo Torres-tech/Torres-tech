@@ -51,9 +51,3 @@
 
 ---
 
-## 📌 Featured Projects
-- **Resume2Review** (FastAPI + Next.js) — AI-powered resume review platform with RAG + caching.  
-- **Findeep** (Node.js + React.js + AWS) — cloud analytics app; 30% faster queries.  
-- **Job Application Multi-Agent System** — automated resume tailoring + submission tracking.  
-- **DailySpender** (SwiftUI) — iOS personal finance app with JSON persistence.  
-- **IoT Claw Game** (React Native + Cloud Video) — mobile app to remote control arcade claw machine.
