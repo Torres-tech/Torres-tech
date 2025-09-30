@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://torres-tech.github.io" target="_blank">
-    <img src="assets/portfolio-banner.png" alt="Khang Lam — Portfolio" width="100%" />
+    <img alt="Open Portfolio" src="https://img.shields.io/badge/🌐%20Open%20My%20Portfolio-000000?style=for-the-badge" />
   </a>
 </p>
 
