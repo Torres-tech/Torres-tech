@@ -14,8 +14,6 @@
 🤝 Looking to collaborate on open-source and real-world impactful apps  
 🎯 Preparing for internships + building projects like **Resume2Review** and **DailySpender**  
 📩 Reach me: dkl6681@mavs.uta.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/khanglamswe) 
-[GitHub](https://github.com/Torres-tech)
 My Porfolio Website: https://torres-tech.github.io
 
 ---
